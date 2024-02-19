@@ -1,0 +1,338 @@
+solid object
+  facet normal 0 0 0
+    outer loop
+      vertex 588,00 630,00 630,00
+      vertex 588,00 1110,00 630,00
+      vertex 588,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 588,00 1110,00 246,00
+      vertex 588,00 630,00 246,00
+      vertex 588,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 630,00
+      vertex 628,00 1110,00 630,00
+      vertex 628,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 1110,00 246,00
+      vertex 628,00 630,00 246,00
+      vertex 628,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 588,00 630,00 630,00
+      vertex 628,00 630,00 630,00
+      vertex 588,00 630,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 588,00 630,00 246,00
+      vertex 628,00 630,00 246,00
+      vertex 628,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 588,00 630,00 630,00
+      vertex 628,00 630,00 630,00
+      vertex 628,00 1110,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 1110,00 630,00
+      vertex 588,00 1110,00 630,00
+      vertex 588,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 588,00 1110,00 630,00
+      vertex 628,00 1110,00 630,00
+      vertex 628,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 1110,00 246,00
+      vertex 588,00 1110,00 246,00
+      vertex 588,00 1110,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 1110,00 246,00
+      vertex 588,00 1110,00 246,00
+      vertex 588,00 630,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 588,00 630,00 246,00
+      vertex 628,00 630,00 246,00
+      vertex 628,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 630,00
+      vertex 1108,00 630,00 630,00
+      vertex 1108,00 246,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 630,00
+      vertex 628,00 246,00 630,00
+      vertex 628,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 670,00
+      vertex 1108,00 630,00 670,00
+      vertex 1108,00 246,00 670,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 670,00
+      vertex 628,00 246,00 670,00
+      vertex 628,00 630,00 670,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 630,00
+      vertex 628,00 630,00 670,00
+      vertex 628,00 246,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 246,00 630,00
+      vertex 628,00 246,00 670,00
+      vertex 628,00 630,00 670,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 630,00
+      vertex 628,00 630,00 670,00
+      vertex 1108,00 630,00 670,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 670,00
+      vertex 1108,00 630,00 630,00
+      vertex 628,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 630,00
+      vertex 1108,00 630,00 670,00
+      vertex 1108,00 246,00 670,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 670,00
+      vertex 1108,00 246,00 630,00
+      vertex 1108,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 670,00
+      vertex 1108,00 246,00 630,00
+      vertex 628,00 246,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 246,00 630,00
+      vertex 628,00 246,00 670,00
+      vertex 1108,00 246,00 670,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 630,00
+      vertex 1108,00 1110,00 630,00
+      vertex 1108,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 1110,00 246,00
+      vertex 1108,00 630,00 246,00
+      vertex 1108,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1148,00 630,00 630,00
+      vertex 1148,00 1110,00 630,00
+      vertex 1148,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1148,00 1110,00 246,00
+      vertex 1148,00 630,00 246,00
+      vertex 1148,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 630,00
+      vertex 1148,00 630,00 630,00
+      vertex 1108,00 630,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 246,00
+      vertex 1148,00 630,00 246,00
+      vertex 1148,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 630,00
+      vertex 1148,00 630,00 630,00
+      vertex 1148,00 1110,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1148,00 1110,00 630,00
+      vertex 1108,00 1110,00 630,00
+      vertex 1108,00 630,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 1110,00 630,00
+      vertex 1148,00 1110,00 630,00
+      vertex 1148,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1148,00 1110,00 246,00
+      vertex 1108,00 1110,00 246,00
+      vertex 1108,00 1110,00 630,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1148,00 1110,00 246,00
+      vertex 1108,00 1110,00 246,00
+      vertex 1108,00 630,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 246,00
+      vertex 1148,00 630,00 246,00
+      vertex 1148,00 1110,00 246,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 1070,00
+      vertex 1108,00 630,00 1070,00
+      vertex 1108,00 246,00 1070,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 1070,00
+      vertex 628,00 246,00 1070,00
+      vertex 628,00 630,00 1070,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 1110,00
+      vertex 1108,00 630,00 1110,00
+      vertex 1108,00 246,00 1110,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 1110,00
+      vertex 628,00 246,00 1110,00
+      vertex 628,00 630,00 1110,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 1070,00
+      vertex 628,00 630,00 1110,00
+      vertex 628,00 246,00 1070,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 246,00 1070,00
+      vertex 628,00 246,00 1110,00
+      vertex 628,00 630,00 1110,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 630,00 1070,00
+      vertex 628,00 630,00 1110,00
+      vertex 1108,00 630,00 1110,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 1110,00
+      vertex 1108,00 630,00 1070,00
+      vertex 628,00 630,00 1070,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 630,00 1070,00
+      vertex 1108,00 630,00 1110,00
+      vertex 1108,00 246,00 1110,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 1110,00
+      vertex 1108,00 246,00 1070,00
+      vertex 1108,00 630,00 1070,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 1108,00 246,00 1110,00
+      vertex 1108,00 246,00 1070,00
+      vertex 628,00 246,00 1070,00
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 628,00 246,00 1070,00
+      vertex 628,00 246,00 1110,00
+      vertex 1108,00 246,00 1110,00
+    endloop
+  endfacet
+endsolid object
